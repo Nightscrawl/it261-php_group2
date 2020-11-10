@@ -60,7 +60,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {  // IF server has a request method of
 <html lang="en-us">
     <head>
         <title>Group Currency Form</title>
-        <meta name="author" content="K. Abell" />
+        <meta name="author" content="Kira Abell, Hongbin Liu, Jordan Lui, Sebastian Quintana, Yuqiang Tan" />
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width,inital-scale=1" />
         <meta name="robots" content="noindex,nofollow" />
